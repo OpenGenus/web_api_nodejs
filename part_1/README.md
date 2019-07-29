@@ -13,7 +13,7 @@ We have built a simple web server using `http module` in Node.js.
 
 ## 🚀 Get Started
 
-1. Clone or download the repository. Make sure, you clone the **web-server** branch.
+1. Clone or download the repository.
 
 2. Once you've downloaded the repo, Open it in an editor of your choice.
 
