@@ -22,3 +22,7 @@ We have built a simple web server using `http module` in Node.js.
 4. Now run command `node index.js` to start the server.
 
 5. Open your browser and go to `127.0.0.1:8000` to see your server running.
+
+## 📝 Learn More
+
+To Learn more about creating a web server, you may refer this <a href="https://iq.opengenus.org/create-a-web-server-using-node-js/"> article</a>.
