@@ -19,3 +19,9 @@ A very simple Web API, using JSON data from a file. We have divided the process 
 - In this part, We have created a simple Web API, using JSON data from a file.
 
 - To Learn more about how to build an API in Node.js, you may refer this <a href="https://iq.opengenus.org/creating-a-web-api-node-js/"> article</a>.
+
+## 🚀 <a href="https://github.com/OpenGenus/web_api_nodejs/tree/master/part_4_express">Part 4</a>
+
+- In this part, We have implemented basic routing using Express.js .
+
+- To Learn more about how to implement Routing in Node using Express.js, you may refer this <a href="https://iq.opengenus.org/p/20e3950d-43f5-45ce-b2f6-2167c63a601b/"> article</a>.
