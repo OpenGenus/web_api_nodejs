@@ -31,11 +31,13 @@ To understand more about creating a Web Api in Node, you may refer <a href="http
 
 3. Open the terminal and traverse to **part_4_express** directory.
 
-4. Now run command `node app.js` to start the server.
+4. Now run command `npm install` to install all the required dependencies.
 
-5. Open Postman and go to `127.0.0.1:3000` to see your server running.
+5. Now run command `node app.js` to start the server.
 
-6. Go to `GET 127.0.0.1:3000`, `POST 127.0.0.1:3000/data`, `GET 127.0.0.1:3000/any-route` to test the working of the routes.
+6. Open Postman and go to `127.0.0.1:3000` to see your server running.
+
+7. Go to `GET 127.0.0.1:3000`, `POST 127.0.0.1:3000/data`, `GET 127.0.0.1:3000/any-route` to test the working of the routes.
 
 ## 📝 Learn More
 
